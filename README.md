@@ -17,3 +17,4 @@ Open `index.html` locally, or serve this folder with `python -m http.server 8000
 
 ## AI acknowledgement
 ChatGPT helped organize the portfolio, simplify wording and develop the website. Figures are selected from the original saved project outputs; any charts reconstructed from saved results are labelled. The models were not retrained for this portfolio. Team results are distinguished from my individual work. The inventory demonstration uses fictional values.
+Personal portfolio website — Version 6
